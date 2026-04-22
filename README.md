@@ -1,8 +1,12 @@
-# Project-Ledger
+
+
+## Project Ledger
+
 A project-based expense and receipt management application that helps users track spending, manage budgets, and generate financial insights through a clean and intuitive interface.
 
 ------
-##  Features
+
+## Features
 
 - Create and manage multiple projects  
 - Track expenses and upload receipts  
@@ -11,7 +15,7 @@ A project-based expense and receipt management application that helps users trac
 - Filter and search expenses  
 - Responsive and clean user interface  
 
----
+------
 
 ## Tech Stack
 
@@ -19,20 +23,17 @@ A project-based expense and receipt management application that helps users trac
 - TypeScript  
 - CSS / Tailwind  
 
----
+------
 
 ## 📸 Screenshots
 
-
-
----
-
+------
 
 ## Inspiration
 
 This project was inspired by the need to manage and organise receipts and expenses across real-world projects in a simple and efficient way.
 
----
+------
 
 ## Future Improvements
 
@@ -41,7 +42,7 @@ This project was inspired by the need to manage and organise receipts and expens
 - Recurring expenses  
 - Backend integration  
 
----
+------
 
 ## 👤 Author
 
