@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
-import { Router, RouterOutlet } from '@angular/router';
+import { Router } from '@angular/router';
+import { RouterOutlet } from '@angular/router';
 import { SidebarComponent } from "./layout/sidebar/sidebar.component";
 import { NavbarComponent } from "./layout/navbar/navbar.component";
 
@@ -7,7 +8,7 @@ import { NavbarComponent } from "./layout/navbar/navbar.component";
   selector: 'app-root',
   imports: [RouterOutlet, SidebarComponent, NavbarComponent],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  styleUrls: ['./app.component.css']
 })
 export class AppComponent {
   title = 'project-ledger';
@@ -18,3 +19,4 @@ export class AppComponent {
     return ['/', '/login', '/register'].includes(this.router.url);
   }
 }
+
