@@ -1,0 +1,13 @@
+.landing {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #F8FAFC;
+}
+
+.landing h1 {
+  font-size: 32px;
+  color: #2563EB;
+}
